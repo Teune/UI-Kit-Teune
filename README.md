@@ -1,14 +1,14 @@
-# [UI Kit]
+# UI Kit
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
 
 #### CSS
 - [Bootstrap 5](https://www.getbootstrap.com)- Open source front end framework
-- [Popper.js](https://popper.js.org/) - Kickass library used to manage poppers
+- [Popper.js](https://popper.js.org/) - Library used to manage poppers
 
 ## Table of Contents
 
-- [Soft UI Dashboard  ](#soft-ui-dashboard--)
+- [UI Kit Dashboard  ](#ui-kit-dashboard--)
       - [CSS](#css)
   - [Table of Contents](#table-of-contents)
   - [Versions](#versions)
@@ -51,6 +51,6 @@ ui-kit-teune
 
 ## Browser Support
 
-At present, we officially aim to support the last two versions of the following browsers:
+Support the last two versions of the following browsers:
 
 <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
