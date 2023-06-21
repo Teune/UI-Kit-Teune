@@ -1,0 +1,80 @@
+.bg-gradient-dark {
+  background-image: linear-gradient(310deg, #141727 0%, #3A416F 100%);
+}
+
+.bg-gradient-success {
+  background-image: linear-gradient(310deg, #17ad37 0%, #98ec2d 100%);
+}
+
+.table tr td .progress {
+  height: 3px;
+  width: 120px;
+  margin: 0;
+}
+
+.table {
+  border-collapse: inherit;
+}
+
+.table thead th {
+  padding: 0.75rem 1.5rem;
+  text-transform: capitalize;
+  letter-spacing: 0;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.avatar {
+  color: #fff;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  border-radius: 0.75rem;
+  height: 48px;
+  width: 48px;
+  transition: all 0.2s ease-in-out;
+}
+
+.avatar-sm {
+  width: 36px !important;
+  height: 36px !important;
+  font-size: 0.875rem;
+}
+
+button {
+  position: relative;
+}
+
+button[aria-label]:focus:after,
+button[aria-label]:hover:after {
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  bottom: -15px;
+  display: block;
+  overflow: hidden;
+  width: auto;
+  height: auto;
+  border-radius: 0.2em;
+  padding: 0 0.7em;
+  font-size: 0.65rem !important;
+  content: attr(aria-label);
+  color: #fff;
+  background: #000;
+  line-height: 2em;
+  text-align: left;
+}
+
+.text-xxs {
+  font-size: 1rem !important;
+}
+
+.card-header {
+  background-color: #fff;
+}
+
+.card .card-header {
+  padding: 1.5rem;
+  border-bottom: 0;
+}
+/*# sourceMappingURL=ui-kit-dashboard.css.map */
