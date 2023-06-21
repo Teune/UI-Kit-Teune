@@ -4,28 +4,19 @@
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.jpg?1617715816)
 
-#### Special thanks
+#### CSS
 - [Bootstrap 5](https://www.getbootstrap.com)- Open source front end framework
 - [Popper.js](https://popper.js.org/) - Kickass library used to manage poppers
 
 ## Table of Contents
 
 - [Soft UI Dashboard  ](#soft-ui-dashboard--)
-      - [Special thanks](#special-thanks)
+      - [CSS](#css)
   - [Table of Contents](#table-of-contents)
   - [Versions](#versions)
-  - [Demo](#demo)
   - [Quick start](#quick-start)
   - [Terminal Commands](#terminal-commands)
-  - [Documentation](#documentation)
-    - [What's included](#whats-included)
   - [Browser Support](#browser-support)
-  - [Resources](#resources)
-  - [Reporting Issues](#reporting-issues)
-  - [Technical Support or Questions](#technical-support-or-questions)
-  - [Licensing](#licensing)
-  - [Useful Links](#useful-links)
-        - [Social Media](#social-media)
 
 [View More](https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html?ref=readme-sud).
 
