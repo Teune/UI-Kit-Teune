@@ -11,8 +11,6 @@
 - [UI Kit Dashboard  ](#ui-kit-dashboard--)
       - [CSS](#css)
   - [Table of Contents](#table-of-contents)
-  - [Versions](#versions)
-  - [Quick start](#quick-start)
   - [Terminal Commands](#terminal-commands)
   - [Browser Support](#browser-support)
 
