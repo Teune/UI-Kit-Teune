@@ -66,7 +66,7 @@ button[aria-label]:hover:after {
 }
 
 .text-xxs {
-  font-size: 1rem !important;
+  font-size: 0.85rem !important;
 }
 
 .card-header {
