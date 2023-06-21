@@ -69,6 +69,11 @@ button[aria-label]:hover:after {
   font-size: 0.85rem !important;
 }
 
+.card {
+  box-shadow: 0 20px 27px 0 rgba(0, 0, 0, 0.05);
+  border: none;
+}
+
 .card-header {
   background-color: #fff;
 }
@@ -76,5 +81,19 @@ button[aria-label]:hover:after {
 .card .card-header {
   padding: 1.5rem;
   border-bottom: 0;
+}
+
+.icon-xxs {
+  width: 20px;
+  height: 20px;
+}
+
+.icon-xxs i {
+  font-size: 10px;
+  color: #fff;
+}
+
+.border-radius-sm {
+  border-radius: 0.25rem;
 }
 /*# sourceMappingURL=ui-kit-dashboard.css.map */
